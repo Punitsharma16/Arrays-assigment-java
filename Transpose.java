@@ -1,6 +1,5 @@
 import java.util.*;
 public class Transpose {
-        //    function for transpose
         static void transpose(int[][] arr , int n){
             int[][] transposeArr = new int[n][n];
             for(int i=0; i<n; i++){
